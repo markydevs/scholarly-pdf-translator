@@ -1,0 +1,5 @@
+__pycache__/
+.venv/
+*.docx.part
+*.checkpoint*
+.env
